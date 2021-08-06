@@ -1,3 +1,5 @@
 node_modules/
 
 ./config/default.json
+
+mongodb+srv://calebbartley:<password>@cluster0.votb9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
