@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,8 @@
   "homepage": "https://github.com/Calebbartley/flashcards-mongoDB#readme",
   "dependencies": {
     "config": "^3.3.6",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
     "mongoose": "^5.13.5"
   }
 }
